@@ -1,0 +1,38 @@
+body {
+    background-color: #fff; 
+    background-image: 
+    linear-gradient(90deg, transparent 79px, #abced4 79px, #abced4 81px, transparent 81px),
+    linear-gradient(#eee .1em, transparent .1em);
+    background-size: 100% 1.2em;
+}
+	
+#myvids {
+    padding-top: 25px;
+    padding-right: 50px;
+    padding-bottom: 25px;
+    padding-left: 50px;
+}
+
+#results { 
+	border-radius: 15px 15px 15px 15px;
+	-moz-border-radius: 15px 15px 15px 15px;
+	-webkit-border-radius: 15px 15px 15px 15px;
+	border: 5px solid #ABCED4;
+}
+
+
+#response {
+    display: none;
+}
+
+.jumbotron {
+  padding: 5px 1px;
+  margin-bottom: 3px;
+  color: inherit;
+  background-color: #fff;
+}
+
+#title {
+	text-align: center;
+}
+
